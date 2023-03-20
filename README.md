@@ -11,7 +11,7 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B#login?flow_id=501a1d38-bbe7-4b4e-b365-ef5f4cb00934:1679326049) <br>
 
 </div>
-<div><div style="border-radius:12px" src="https://open.spotify.com/embed/track/0r6tglSiN3TZTyRMvMCR5B?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></div></div>
+
 
 ```dart
 // tools_I_use organized
@@ -62,4 +62,4 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **@HadeelLotfi**<br>
 
-
+![](gifs/game.gif)
