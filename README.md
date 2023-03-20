@@ -1,4 +1,4 @@
-
+<div align="center" width="50">
 ![](gifs/main.gif)
 
 <br>
@@ -60,4 +60,4 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **@HadeelLotfi**<br>
 
-
+</div>
