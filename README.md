@@ -9,7 +9,7 @@
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B#login?flow_id=501a1d38-bbe7-4b4e-b365-ef5f4cb00934:1679326049) <br>
 
-<div><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0r6tglSiN3TZTyRMvMCR5B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<div><div style="border-radius:12px" src="https://open.spotify.com/embed/track/0r6tglSiN3TZTyRMvMCR5B?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></div></div>
 
 ```dart
 // tools_I_use organized
