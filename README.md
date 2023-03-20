@@ -2,11 +2,12 @@
 ![](gifs/main.gif)
 
 <br>
-<p><strong>Senior Full Stack developer @ Specto company 
+
+<p style="text-align: center;"><strong>Senior Full Stack developer @ Specto company 
 <br>Designer & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B#login?flow_id=501a1d38-bbe7-4b4e-b365-ef5f4cb00934:1679326049) <br>
+[![Spotify](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B#login?flow_id=501a1d38-bbe7-4b4e-b365-ef5f4cb00934:1679326049)](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B#login?flow_id=501a1d38-bbe7-4b4e-b365-ef5f4cb00934:1679326049) <br>
 
 ```dart
 // tools_I_use organized
